@@ -4,6 +4,7 @@ Matrimonial Project
 
 **Features:**
 Wed-Lock Master is basically a Matrimonial Software project which comes with various features including the following:
+
       1. User-friendly platform for finding partners.
       2. Secure personalized accounts.
       3. Easy filtering for bride/groom search.
@@ -14,6 +15,7 @@ Wed-Lock Master is basically a Matrimonial Software project which comes with var
       8. Ensures seamless, secure experience.
 
 **Bakground Study:**Before developing a matrimonial website, we studied existing websites in Bangladesh, including-
+
       1. Bangladeshi Matrimony,
       2. BD Marriage,
       3. Noble Marriage, and
