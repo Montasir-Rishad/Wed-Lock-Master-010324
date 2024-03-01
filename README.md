@@ -24,6 +24,7 @@ Wed-Lock Master is basically a Matrimonial Software project which comes with var
 We found that the UI/UX of these websites was uncomfortably poor, & the design was outdated. Then we decided to create an optimum website that would provide better facilities for free, offering a new way to find partners. We also planned to implement robust power in the admin panel to enhance the existing matrimonial system.
 
 **Overview of the Software:**
+
 ![image](https://github.com/Montasir-Rishad/Wed-Lock-Master-010324/assets/53003650/a15a2dda-4af9-42bd-8ce3-ae82edff7447)
 
 **Architectural Design:**
